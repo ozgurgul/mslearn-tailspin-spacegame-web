@@ -1,3 +1,5 @@
+# File: templates/build.yml
+
 parameters:
   buildConfiguration: 'dummy'
 
